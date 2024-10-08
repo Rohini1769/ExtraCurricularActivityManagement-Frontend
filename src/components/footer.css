@@ -1,0 +1,53 @@
+.Footer{
+    display: flex;
+    margin: 16px;
+
+}
+.Footer-contact{
+    display: block;
+    margin-left:20px;
+    margin-right:30px;
+}
+.footer-contact-us{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+.footer-subscribe{
+
+}
+.footer-subscribe-card{
+    display: block;
+    width:200px;
+    border:1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin:16px;
+    padding:16px;
+    border-radius: 8px;
+
+
+}
+.footer-subscribe-header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.footer-input{
+  border-radius: 15px;
+  width: 200px;
+  height: 30px;
+  border-color: black;
+  border-style:double;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.footer-button{
+  height: 35px;
+  width: 150px;
+  margin-left: 20px;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  border:none;
+  cursor: pointer;
+}

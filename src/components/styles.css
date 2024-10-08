@@ -1,0 +1,56 @@
+.loginpage{
+    justify-content: center;
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin:16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+   
+}
+.loginpage-image{
+  width: 600px;
+  margin-right: 20px;
+}
+.loginlogo{
+    width: 500px;
+}
+.login-container{
+    display: block;
+    margin-top: 50px;
+}
+.login-input-class{
+    display: block;
+}
+.login-text{
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom:30px;
+    justify-content: center;
+    margin-left: 80px;
+}
+.login-input{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 30px;
+   border-color: rgb(147, 139, 139);
+   border-style: double;
+}
+.login-button{
+height: 35px;
+  width: 200px;
+  margin-left: 20px;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  border:none;
+  cursor: pointer;
+  justify-content: center;
+  font-size: medium;
+}
+.login-signup :hover{
+  cursor: pointer;
+}
